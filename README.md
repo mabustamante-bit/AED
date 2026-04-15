@@ -1,8 +1,8 @@
 # INFORMACIÓN PERSONAL
-**Usuario GitHub:** [mabustamante-bit](https://github.com/mabustamante-bit)
-**Legajo:** 222.950-0 
-**Apellido:** Bustamante 
-**Nombre:** Marcos
+* **Usuario GitHub:** [mabustamante-bit](https://github.com/mabustamante-bit)
+* **Legajo:** 222.950-0
+* **Apellido:** Bustamante
+* **Nombre:** Marcos
 ---
 ### TP N° 0 "Hello, World!" en C++
 ---
