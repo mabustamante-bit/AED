@@ -3,6 +3,6 @@
 * **Legajo:** 222.950-0
 * **Apellido:** Bustamante
 * **Nombre:** Marcos
-* **Curso:** 1053
+* **Curso:** K1053
 * **Grupo:** 7
 ---
